@@ -11,7 +11,7 @@ This script provides a simple beehive system for collecting honey in QBCore. It 
 
 ### Honey Item
 ```lua
-// filepath: c:\Users\User\Server\[QBCore]\[FiveMServer]\QBCore\Shared\Items.lua
+// filepath example: c:\Users\Server\[QBCore]\[FiveMServer]\QBCore\Shared\Items.lua
 // ...existing code...
 ['honey'] = { 
     name = 'honey', 
